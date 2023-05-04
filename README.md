@@ -9,7 +9,7 @@ This page is used for new users to register by providing their basic information
 The registration form includes the following fields:
  
 - Username (required)
-- Email Address (required)
+- Email Address (required) 
 - Password (required)
 - Confirm Password (required)
 - Name (required)
